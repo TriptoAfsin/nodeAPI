@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Slidenoobs 101",
+        "price": "Free"
+    },
+    {
+        "id": 2,
+        "name": "CP 101",
+        "price": "Free"
+    },
+    {
+        "id": 3,
+        "name": "WebDev 101",
+        "price": "5$"
+    }
+]
